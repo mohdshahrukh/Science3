@@ -90,7 +90,7 @@ var data= {
                 "-Question": "3.\tTelevision    \t\t\t\t\t  (c)\tleaves close when touched"
               },
               {
-                "-Question": "4.\tFish        \t\t\t\t\t\t  (d)\tbreathes through air holes"
+                "-Question": "4.\tFish        \t\t\t\t\t  (d)\tbreathes through air holes"
               },
               {
                 "-Question": "5.\ttouch-me-not   \t\t\t\t  (e)\twings to fly"
@@ -329,7 +329,7 @@ var data= {
                 "-Question": "4.\tRunning birds     \t\t\t\t  (d)\tsoft broad beak"
               },
               {
-                "-Question": "5.\tSparrow         \t\t\t\t  (d)\tpulls out insects from holes"
+                "-Question": "5.\tSparrow         \t\t\t\t  (e)\tpulls out insects from holes"
               }
             ]
           },
@@ -445,7 +445,7 @@ var data= {
                 "-Question": "4.\tThe weaver bird’s nest   \t\t\t\t  (d)\tis made of stones."
               },
               {
-                "-Question": "5.\tThe penguin nest         \t\t\t\t  (d)\tdigs the ground to make burrow nest."
+                "-Question": "5.\tThe penguin nest         \t\t\t\t  (e)\tdigs the ground to make burrow nest."
               }
             ]
           },
@@ -564,7 +564,7 @@ var data= {
                 "-Question": "4.\tFlower   \t\t\t\t  (d)\tgive rise to a new plant."
               },
               {
-                "-Question": "5.\tRoot     \t\t\t\t  (d)\tis the reproductive part of a plant."
+                "-Question": "5.\tRoot     \t\t\t\t  (e)\tis the reproductive part of a plant."
               }
             ]
           },
@@ -678,13 +678,13 @@ var data= {
                 "-Question": "2.\tHeart     \t\t\t\t\t  (b)\trespiration"
               },
               {
-                "-Question": "3.\tLungs     \t\t\t\t\t  (c)\tcontrol body activities"
+                "-Question": "3.\tLungs     \t\t\t\t  (c)\tcontrol body activities"
               },
               {
                 "-Question": "4.\tStomach   \t\t\t\t  (d)\texcretion"
               },
               {
-                "-Question": "5.\tBrain     \t\t\t\t\t  (d)\tcirculation"
+                "-Question": "5.\tBrain     \t\t\t\t\t  (e)\tcirculation"
               }
             ]
           },
@@ -811,7 +811,7 @@ var data= {
                 "-Question": "5.\t1 km                     \t\t\t\t\t\t  (e)\t1 year"
               },
               {
-                "-Question": "6.\t12 months                \t\t\t\t\t  (e)\t1 month"
+                "-Question": "6.\t12 months                \t\t\t\t\t  (f)\t1 month"
               }
             ]
           },
@@ -918,7 +918,7 @@ var data= {
                 "-Question": "1.\tCause of injury in the kitchen           \t\t\t\t\t  (a)\tsubway"
               },
               {
-                "-Question": "2.\tBlack and white broad strips on the road    \t\t\t    (b)\tsafety rules"
+                "-Question": "2.\tBlack and white broad strips on the road    \t\t\t  (b)safety rules"
               },
               {
                 "-Question": "3.\tYellow light says                        \t\t\t\t\t\t  (c)\tzebra crossing"
@@ -1174,7 +1174,7 @@ var data= {
                 "-Question": "5.\tWinter season   \t\t\t\t  (e)\tcotton clothes"
               },
               {
-                "-Question": "6.\tCloudy day      \t\t\t\t  (e)\tuprooted trees"
+                "-Question": "6.\tCloudy day      \t\t\t\t  (f)\tuprooted trees"
               }
             ]
           },
@@ -1292,7 +1292,7 @@ var data= {
                 "-Question": "4.\tThe Sun     \t\t\t\t  (d)\ta constellation"
               },
               {
-                "-Question": "5.\tThe Moon    \t\t\t\t  (d)\tan artificial satellite"
+                "-Question": "5.\tThe Moon    \t\t\t\t  (e)\tan artificial satellite"
               }
             ]
           } ,
@@ -1411,7 +1411,7 @@ var data= {
                 "-Question": "4.\tVenus     \t\t\t\t  (d)\tsatellite"
               },
               {
-                "-Question": "5.\tLeo       \t\t\t\t\t  (d)\tstar"
+                "-Question": "5.\tLeo       \t\t\t\t\t  (e)\tstar"
               }
             ]
           },
